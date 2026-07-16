@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fff7ed"/>
+  <rect x="90" y="90" width="1020" height="450" rx="36" fill="#f8dfc0"/>
+  <rect x="150" y="150" width="420" height="300" rx="24" fill="#ffffff"/>
+  <circle cx="930" cy="260" r="140" fill="#c46b4e"/>
+  <path d="M760 265c0-80 70-140 150-140" stroke="#7f3f2c" stroke-width="24" stroke-linecap="round"/>
+  <path d="M220 330h220" stroke="#a55a3f" stroke-width="18" stroke-linecap="round"/>
+  <path d="M220 276c34-24 71-36 110-36 60 0 108 26 142 74" stroke="#f1b96a" stroke-width="18" stroke-linecap="round"/>
+  <text x="150" y="520" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#7f3f2c">Sweet Treats Bakery</text>
+</svg>
